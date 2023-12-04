@@ -1,7 +1,7 @@
 # <img width=20 src="https://static.vecteezy.com/system/resources/previews/015/280/601/original/hand-drawn-genes-and-dna-illustration-png.png"> AlestII-T1 <img width=20 src="https://static.vecteezy.com/system/resources/previews/015/280/601/original/hand-drawn-genes-and-dna-illustration-png.png">
 
 
-Este repositório contém a implementação de um algoritmo em Java para resolver o problema da análise do DNA de alienígenas. O objetivo do problema é determinar o tamanho da menor cadeia que pode ser obtida após todas as mutações possíveis.
+Esta pasta contém a implementação de um algoritmo em Java para resolver o problema da análise do DNA de alienígenas. O objetivo do problema é determinar o tamanho da menor cadeia que pode ser obtida após todas as mutações possíveis.
 
 <div align="center">
 <img width=80 src="https://media1.giphy.com/media/TfARDpUutt1W2jgDBY/200w.gif?cid=6c09b9521dunvclng2szhkyn0659jn50snjgh4fl7him5jzk&ep=v1_gifs_search&rid=200w.gif&ct=s">
@@ -31,17 +31,8 @@ O algoritmo Java implementado neste projeto lê as cadeias de DNA fornecidas nos
 - Retorna a lista resultante após todas as mutações.
 
 ## Como Utilizar
-Clone este repositório para o seu ambiente local:
-
-git clone https://github.com/seu-usuario/algoritmos-dna-alienigena.git
-
-Compile o código-fonte Java:
-javac Main.java
-
-O programa apresentará um menu interativo que permitirá que você escolha entre realizar a mutação e calcular o tamanho da menor cadeia possível, exibir a sequência de DNA original ou sair do programa.
-
-Para realizar a mutação e calcular o tamanho da menor cadeia possível, escolha a opção 1 e insira o nome do arquivo de entrada quando solicitado.
-
-Para exibir a sequência de DNA original, escolha a opção 2. Note que você deve primeiro realizar a mutação para ter uma sequência mutada disponível.
-
-Para sair do programa, escolha a opção 3.
+- Clone este repositório
+- O programa apresentará um menu interativo que permitirá que você escolha entre realizar a mutação e calcular o tamanho da menor cadeia possível, exibir a sequência de DNA original ou sair do programa.
+- Para realizar a mutação e calcular o tamanho da menor cadeia possível, escolha a opção 1 e insira o nome do arquivo de entrada quando solicitado.
+- Para exibir a sequência de DNA original, escolha a opção 2. Note que você deve primeiro realizar a mutação para ter uma sequência mutada disponível.
+- Para sair do programa, escolha a opção 3.
