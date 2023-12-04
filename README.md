@@ -10,11 +10,11 @@ Bem-vindo ao repositório da disciplina de Algoritmos e Estruturas de Dados! Aqu
 
 Neste repositório estão os trabalhos que foram realizados durante a realização da disciplina. Aqui estão eles:
 
-### 1. 🌐 Explorando o Universo dos Algoritmos
+### 1. 🧬 DNA alienigina
 
-- **Descrição:** Neste trabalho, mergulhamos nos confins do universo dos algoritmos. Desde algoritmos de ordenação até busca em grafos, esta jornada cósmica vai te transformar em um verdadeiro(a) explorador(a) do código.
+- **Descrição:** Implementar um algoritmo Java que lê as cadeias de DNA fornecidas nos diversos arquivos de teste pelos cientistas e determina o tamanho da menor cadeia que pode ser obtida após todas as mutações possíveis.
 
-- **Código Espacial:** [Trabalho1_UniversoAlgoritmos](link_para_o_codigo1)
+- **Código DNA:** https://github.com/DudaWendelMaia/AlestII/tree/main/Trabalho1
 
 ### 2. 🏰 A Saga das Estruturas de Dados
 
@@ -31,9 +31,8 @@ Neste repositório estão os trabalhos que foram realizados durante a realizaç�
 ## 🎓 Como Usar Este Repositório
 
 1. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/algoritmos-estruturas-2023-2.git
-   ```
+
+https://github.com/DudaWendelMaia/AlestII.git
 
 2. Explore os Trabalhos:
 Cada trabalho tem seu próprio espaço e sua descrição. Abra as pastas, veja os códigos e os desafios.
