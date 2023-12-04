@@ -16,17 +16,12 @@ Neste repositório estão os trabalhos que foram realizados durante a realizaç�
 
 - **Código DNA:** https://github.com/DudaWendelMaia/AlestII/tree/main/Trabalho1
 
-### 2. 🏰 A Saga das Estruturas de Dados
+### 2. 🏰 Alquimistas
 
-- **Descrição:** Prepare-se para adentrar em uma incrível saga onde as estruturas de dados são os verdadeiros heróis. Listas, pilhas, filas e árvores, cada uma desempenhando seu papel na construção de um reino de código sólido.
+- **Descrição:** Realização de um código para a automação da análise de receitas alquímicas durante a Grande Convenção dos Alquimistas
 
 - **Código Épico:** [Trabalho2_SagaEstruturas](link_para_o_codigo2)
 
-### 3. 🎲 Desafio dos Algoritmos Fantásticos
-
-- **Descrição:** Este trabalho é um verdadeiro desafio dos algoritmos fantásticos. Enfrente criaturas misteriosas como "O Monstro da Complexidade" e "A Sombra do Tempo". A cada desafio vencido, você se aproxima do título de Mestre dos Algoritmos.
-
-- **Código Mágico:** [Trabalho3_DesafioFantastico](link_para_o_codigo3)
 
 ## 🎓 Como Usar Este Repositório
 
