@@ -20,7 +20,7 @@ Neste repositório estão os trabalhos que foram realizados durante a realizaç�
 
 - **Descrição:** Realização de um código para a automação da análise de receitas alquímicas durante a Grande Convenção dos Alquimistas
 
-- **Código Épico:** [Trabalho2_SagaEstruturas](link_para_o_codigo2)
+- **Código Épico:** https://github.com/DudaWendelMaia/AlestII/tree/main/Trabalho2
 
 
 ## 🎓 Como Usar Este Repositório
