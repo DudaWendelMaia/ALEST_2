@@ -1,4 +1,4 @@
-# <img width=20 src="https://static.vecteezy.com/system/resources/previews/015/280/601/original/hand-drawn-genes-and-dna-illustration-png.png"> AlestII-T1 <img width=20 src="https://static.vecteezy.com/system/resources/previews/015/280/601/original/hand-drawn-genes-and-dna-illustration-png.png">
+# <img width=20 src="https://static.vecteezy.com/system/resources/previews/015/280/601/original/hand-drawn-genes-and-dna-illustration-png.png"> DNA alienigina <img width=20 src="https://static.vecteezy.com/system/resources/previews/015/280/601/original/hand-drawn-genes-and-dna-illustration-png.png">
 
 
 Esta pasta contém a implementação de um algoritmo em Java para resolver o problema da análise do DNA de alienígenas. O objetivo do problema é determinar o tamanho da menor cadeia que pode ser obtida após todas as mutações possíveis.
