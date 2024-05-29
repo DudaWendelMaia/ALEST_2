@@ -8,8 +8,8 @@ Bem-vindo ao repositório da disciplina de **Algoritmos e Estruturas de Dados 2*
 
 ## ℹ️ Informações
 
-- **Status:** Em andamento
-- **Realizada em:** 2024/01
+- **Status:** Concluída
+- **Realizada em:** 2023/02
 - **Nome:** Algoritmos e Estruturas de Dados 2
 - **Link:** https://github.com/DudaWendelMaia/ALEST_2.git
 
