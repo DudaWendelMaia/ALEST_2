@@ -1,38 +1,69 @@
-# Algoritmos e Estruturas de Dados
+# 📑 Algoritmos e Estruturas de Dados 2
 
 <div align="center">
  <img height=150 width=280 src="https://hermes.dio.me/articles/cover/a3f96e47-8696-49c0-a776-c9f065667cb7.png">
 </div>
 
-Bem-vindo ao repositório da disciplina de Algoritmos e Estruturas de Dados! Aqui você encontrará os projetos desenvolvidos ao longo da disciplina realizada em 2023/2.
+Bem-vindo ao repositório da disciplina de **Algoritmos e Estruturas de Dados 2** que foi realizada em 2024/01! Aqui, você encontrará os trabalhos, projetos entre outras coisas que realizei durante esta cadeira.
 
-## 🚀 Trabalhos
+## ℹ️ Informações
 
-Neste repositório estão os trabalhos que foram realizados durante a realização da disciplina. Aqui estão eles:
+- **Status:** Em andamento
+- **Realizada em:** 2024/01
+- **Nome:** Algoritmos e Estruturas de Dados 2
+- **Link:** https://github.com/DudaWendelMaia/ALEST_2.git
 
-### 1. 🧬 DNA alienigina
+## 🌟 Visão Geral
 
-- **Descrição:** Implementar um algoritmo Java que lê as cadeias de DNA fornecidas nos diversos arquivos de teste pelos cientistas e determina o tamanho da menor cadeia que pode ser obtida após todas as mutações possíveis.
+Este repositório é dedicado aos trabalhos realizados ao longo da disciplina de Algoritmos e Estruturas de Dados 2. Ela foca em:
 
-- **Código DNA:** https://github.com/DudaWendelMaia/AlestII/tree/main/Trabalho1
+- Árvores e Grafo
+- Algoritmos Avançados de Ordenação e Pesquisa
+- Estruturas de Dados Avançadas
+- Algoritmos de Divisão e Conquista, Programação Dinâmica e Algoritmos Gulosos
 
-### 2. 🏰 Alquimistas
+## 🗂️ Estrutura do Repositório
 
-- **Descrição:** Realização de um código para a automação da análise de receitas alquímicas durante a Grande Convenção dos Alquimistas
+Abaixo, você encontra a organização dos conteúdos presentes neste repositório:
 
-- **Código Épico:** https://github.com/DudaWendelMaia/AlestII/tree/main/Trabalho2
+```
+📦 Sistemas Operacionais
+├── 📁 Trabalho1
+│   ├── 📄 CodigoFonte.java
+│   ├── 📄 Definicao.pdf
+│   └── 📄 README.md
+├── 📁 Trabalho 2
+│   ├── 📄 CodigoFonte.java
+│   ├── 📄 Definicao.pdf
+│   └── 📄 README.md
+└── 📄 README.md
+```
 
+## 🔧 Como Utilizar
 
-## 🎓 Como Usar Este Repositório
+Para explorar os trabalhos:
 
-1. **Clone o Repositório:**
+1. Navegue até a pasta do trabalho desejado.
+2. Leia o README.md para entender o contexto do trabalho e as instruções de execução.
+3. Execute o código-fonte conforme as instruções fornecidas.
 
-https://github.com/DudaWendelMaia/AlestII.git
+## 🚀 Trabalhos Destaques
 
-2. Explore os Trabalhos:
-Cada trabalho tem seu próprio espaço e sua descrição. Abra as pastas, veja os códigos e os desafios.
+### Trabalho 1: 🧬 DNA alienigina
+Implementar um algoritmo Java que lê as cadeias de DNA fornecidas nos diversos arquivos de teste pelos cientistas e determina o tamanho da menor cadeia que pode ser obtida após todas as mutações possíveis.
 
-3. Diversão Sem Limites:
-Sinta-se à vontade para experimentar, alterar e aprender com os códigos.
+### Trabalho 2: 🏰 Alquimistas
+Realização de um código para a automação da análise de receitas alquímicas durante a Grande Convenção dos Alquimistas
 
- 🚀✨
+## 📫 Contato
+
+Para dúvidas, sugestões ou contribuições, entre em contato:
+
+- **Nome:** Maria Maia
+- **Email:** mariawendelmaia@gmail.com
+- **LinkedIn:** www.linkedin.com/in/maria-eduarda-wendel-maia
+
+---
+
+Espero que este repositório tenha sido útil para você!  🚀✨
+
