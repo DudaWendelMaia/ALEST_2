@@ -1,7 +1,7 @@
-# 🔥 Alquimistas
+# ⚗️ Alquimistas
 
 <div align="center">
-<img height=250 width=200 src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-alchemist-clipart-cartoon-print-of-an-old-wizard-with-a-beard-vector-png-image_6793072.png">
+<img height=200 width=200 src="https://media.tenor.com/HMF0i5wlX0AAAAAi/animation-vector.gif">
 </div>
 
 ## ℹ️ Informações
